@@ -15,7 +15,7 @@ Hansung University, Korea
 ### 🥇 1. 최우수상 (논문)  
 **대회:** 제21회 한성공학경진대회  
 **논문 제목:** 기술 유출 및 겸직·겹업 위반 대응을 위한 Hiworks 협업 도구 로그 분석 자동화 툴 개발  
-**역할:** 신민석 (주저자, First Author)  
+**역할:** **신민석 (주저자, First Author)**  
 **수상일:** 2025-09-26  
 
 ![award1](./awards/award1.jpg)
@@ -105,18 +105,35 @@ Hansung University, Korea
 
 ---
 
+## 📄 Publications
+
+### 🔹 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향  
+- **Authors**: 최종윤, **신민석 (2nd author)**, 박화비, 한동균, 신준성, 박명서  
+- **Journal**: 정보보호학회지  
+- **Volume / Issue**: Vol.35, No.6  
+- **Pages**: 41–48  
+- **Published**: 2025-12  
+- **Affiliation**: Hansung University  
+- **Link**: https://www.dbpia.co.kr/ (DBpia 검색: 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향)
+
+> Note: In this paper, I am the **second author**.  
+> First authorship is explicitly indicated only when my name appears first.
+
+---
+
 ## 📌 Notes
 
 - **First Author (주저자)** 표기는 모든 증명서의 저자 순서를 기준으로 정확히 반영했습니다.  
 - 모든 수상은 공식 학회/대회 상장 스캔본 기반입니다.  
+- 저널 논문은 **DBpia 등재 학술지 게재 논문**만 Publications에 포함했습니다.  
 
 ---
 
 ## 📫 Contact
 
-- Email: (여기에 이메일 추가)
+- Email: your_email@example.com  
 - Research Interests:  
   - Digital Forensics  
   - Mobile App Forensics  
   - Cloud & Groupware Forensics  
-  - AI-generated Data Forensics
+  - AI-generated Data Forensics  
