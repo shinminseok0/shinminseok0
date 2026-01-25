@@ -18,7 +18,7 @@ Hansung University, Korea
 **역할:** **신민석 (주저자, First Author)**  
 **수상일:** 2025-09-26  
 
-![award1](./awards/award1.jpg)
+![공경전](./awards/공경전.jpeg)
 
 ---
 
@@ -28,7 +28,7 @@ Hansung University, Korea
 **저자:** 최종윤, **신민석(제2저자)**, 김한결, 위다빈, 박명서  
 **수상일:** 2025-11-27  
 
-![award2](./awards/award2.jpg)
+![한국정보보호학회](./awards/한국정보보호학회.jpeg)
 
 ---
 
@@ -38,7 +38,7 @@ Hansung University, Korea
 **역할:** 신민석 (팀 핵심 개발자)  
 **수상일:** 2025-11-28  
 
-![award3](./awards/award3.jpg)
+![프리캠스톤](./awards/프리캠스톤.jpeg)
 
 ---
 
@@ -48,7 +48,7 @@ Hansung University, Korea
 **저자:** 최종윤, **신민석(제2저자)**, 김동인, 김한결, 박명서  
 **수상일:** 2025-09-18  
 
-![award4](./awards/award4.jpg)
+![KCA](./awards/KCA.jpeg)
 
 ---
 
@@ -58,7 +58,7 @@ Hansung University, Korea
 **저자:** **신민석(주저자, First Author)**, 최종윤, 장규영, 김한결, 김동인, 박명서  
 **수상일:** 2025-09-30  
 
-![award5](./awards/award5.jpg)
+![ETRI](./awards/ETRI.jpeg)
 
 ---
 
@@ -68,7 +68,7 @@ Hansung University, Korea
 **저자:** **신민석(주저자, First Author)**, 최종윤, 김한결, 위다빈, 박명서  
 **수상일:** 2025-09-18  
 
-![award6](./awards/award6.jpg)
+![호남](./awards/호남.jpeg)
 
 ---
 
@@ -78,7 +78,7 @@ Hansung University, Korea
 **저자:** **신민석(주저자, First Author)**  
 **수상일:** 2025-09-23  
 
-![award7](./awards/award7.jpg)
+![한국포렌식학회](./awards/한국포렌식학회.jpeg)
 
 ---
 
@@ -90,7 +90,7 @@ Hansung University, Korea
 **역할:** **신민석 (팀원, 핵심 아이디어 및 구현 담당)**  
 **수상일:** 2025-08-13  
 
-![award8](./awards/award8.jpg)
+![창융경-대상](./awards/창융경-대상.jpeg)
 
 ---
 
@@ -101,7 +101,7 @@ Hansung University, Korea
 **팀원:** **신민석**, 박준환, 심승보, 이준, 박계령, 양다원  
 **수상일:** 2025-02-10  
 
-![award9](./awards/award9.jpg)
+![창융경-동상](./awards/창융경-동상.jpeg)
 
 ---
 
@@ -114,7 +114,7 @@ Hansung University, Korea
 - **Pages**: 41–48  
 - **Published**: 2025-12  
 - **Affiliation**: Hansung University  
-- **Link**: https://www.dbpia.co.kr/ (DBpia 검색: 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향)
+- **Link**: https://www.dbpia.co.kr/
 
 > Note: In this paper, I am the **second author**.  
 > First authorship is explicitly indicated only when my name appears first.
@@ -136,4 +136,4 @@ Hansung University, Korea
   - Digital Forensics  
   - Mobile App Forensics  
   - Cloud & Groupware Forensics  
-  - AI-generated Data Forensics  
+  - AI-generated Data Forensics
