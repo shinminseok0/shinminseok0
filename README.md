@@ -14,7 +14,7 @@ Hansung University, Korea
 
 ### 🥇 1. 최우수상 (논문)
 
-<img src="./awards/공경전.jpeg" align="right" width="300"/>
+<img src="./awards/공경진.jpeg" align="right" width="300"/>
 
 **대회:** 제21회 한성공학경진대회  
 **논문 제목:** 기술 유출 및 겸직·겹업 위반 대응을 위한 Hiworks 협업 도구 로그 분석 자동화 툴 개발  
@@ -40,11 +40,11 @@ Hansung University, Korea
 
 ### 🥈 3. 우수상
 
-<img src="./awards/프리캠스톤.jpeg" align="right" width="300"/>
+<img src="./awards/프리캡스톤.jpeg" align="right" width="300"/>
 
 **행사:** 2025 한성 SW중심대학 페스티벌  
 **팀명:** B-1  
-**역할:** 신민석 (팀 핵심 개발자)  
+**역할:** 신민석, 유보애 
 **수상일:** 2025-11-28  
 
 <br clear="all"/>
@@ -111,7 +111,7 @@ Hansung University, Korea
 **분야:** 아이디어  
 **작품 제목:** 생체 인식 기반 미래형 AI–블록체인 응급환자 골든타임 확보 시스템  
 **팀명:** 메디슨  
-**역할:** **신민석 (팀원, 핵심 아이디어 및 구현 담당)**  
+**역할:** **신민석  
 **수상일:** 2025-08-13  
 
 <br clear="all"/>
