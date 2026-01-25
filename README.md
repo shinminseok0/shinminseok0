@@ -14,7 +14,7 @@ Hansung University, Korea
 
 ### 🥇 1. 최우수상 (논문)
 
-<img src="./awards/공경진.jpeg" align="right" width="300"/>
+<img src="./awards/c.jpeg" align="right" width="300"/>
 
 **대회:** 제21회 한성공학경진대회  
 **논문 제목:** 기술 유출 및 겸직·겹업 위반 대응을 위한 Hiworks 협업 도구 로그 분석 자동화 툴 개발  
@@ -27,7 +27,7 @@ Hansung University, Korea
 
 ### 🥇 2. 정보보호학회장상 (우수논문)
 
-<img src="./awards/한국정보보호학회.jpeg" align="right" width="300"/>
+<img src="./awards/e.jpeg" align="right" width="300"/>
 
 **학회:** 2025년도 한국정보보호학회 동계학술대회  
 **논문 제목:** CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구  
@@ -40,7 +40,7 @@ Hansung University, Korea
 
 ### 🥈 3. 우수상
 
-<img src="./awards/프리캡스톤.jpeg" align="right" width="300"/>
+<img src="./awards/d.jpeg" align="right" width="300"/>
 
 **행사:** 2025 한성 SW중심대학 페스티벌  
 **팀명:** B-1  
@@ -79,7 +79,7 @@ Hansung University, Korea
 
 ### 🥇 6. 우수논문상 (호남지부)
 
-<img src="./awards/호남.jpeg" align="right" width="300"/>
+<img src="./awards/g.jpeg" align="right" width="300"/>
 
 **학회:** 2025 제6회 호남사이버보안 컨퍼런스 추계학술대회  
 **논문 제목:** 생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구  
@@ -92,7 +92,7 @@ Hansung University, Korea
 
 ### 🥈 7. 은상
 
-<img src="./awards/한국포렌식학회.jpeg" align="right" width="300"/>
+<img src="./awards/f.jpeg" align="right" width="300"/>
 
 **학회:** 2025 제2회 논문경진대회 (한국포렌식학회)  
 **논문 제목:** 조직 내부 데이터 압수 수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로  
@@ -105,7 +105,7 @@ Hansung University, Korea
 
 ### 🥇 8. 대상
 
-<img src="./awards/창융경-대상.jpeg" align="right" width="300"/>
+<img src="./awards/a.jpeg" align="right" width="300"/>
 
 **대회:** 2025 창의융합역량 경진대회  
 **분야:** 아이디어  
@@ -120,7 +120,7 @@ Hansung University, Korea
 
 ### 🥉 9. 동상
 
-<img src="./awards/창융경-동상.jpeg" align="right" width="300"/>
+<img src="./awards/b.jpeg" align="right" width="300"/>
 
 **대회:** 2024학년도 2학기 제11회 창의융합역량 경진대회  
 **작품 제목:** AI-Powered Drone Navigator & Delivery (AIPDND)  
