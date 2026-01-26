@@ -55,7 +55,7 @@ Hansung University, Korea
 
 ---
 
-### 🥇 4. 우수논문상 (KCA)
+### 🥇 4. 우수논문상 (한국방송통신전파진흥원장상)
 
 <img src="./awards/KCA.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
