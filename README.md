@@ -20,7 +20,7 @@ Hansung University, Korea
 
 <img src="./awards/ETRI.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
-**학회:** 2025 한국정보보호학회 충청지부 학술대회  
+**학회:** 2025 한국정보보호학회 충청지부 학술대회 (CISC-S 2025)  
 **논문 제목:** 그룹웨어 포렌식 기법 연구: Hiworks–DaouOffice 사례  
 **저자:** **신민석(주저자, First Author)**, 최종윤, 장규영, 김한결, 김동인, 박명서  
 **수상일:** 2025-09-30  
@@ -33,7 +33,7 @@ Hansung University, Korea
 
 <img src="./awards/g.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
-**학회:** 2025 제6회 호남사이버보안 컨퍼런스 추계학술대회  
+**학회:** 2025 제6회 호남사이버보안 컨퍼런스 추계학술대회 (HONAM 2025)  
 **논문 제목:** 생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구  
 **저자:** **신민석(주저자, First Author)**, 최종윤, 김한결, 위다빈, 박명서  
 **수상일:** 2025-09-18  
@@ -46,7 +46,7 @@ Hansung University, Korea
 
 <img src="./awards/f.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
-**학회:** 2025 제2회 논문경진대회 (한국포렌식학회)  
+**학회:** 2025 제2회 한국포렌식학회 논문경진대회  
 **논문 제목:** 조직 내부 데이터 압수 수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로  
 **저자:** **신민석(주저자, First Author)**  
 **수상일:** 2025-09-23  
@@ -59,7 +59,7 @@ Hansung University, Korea
 
 <img src="./awards/KCA.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
-**학회:** 2025 제6회 호남 사이버보안 컨퍼런스  
+**학회:** 2025 제6회 호남 사이버보안 컨퍼런스 (HONAM 2025)  
 **논문 제목:** Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집과 재현성 검증  
 **저자:** 최종윤, **신민석(제2저자)**, 김동인, 김한결, 박명서  
 **수상일:** 2025-09-18  
@@ -72,7 +72,7 @@ Hansung University, Korea
 
 <img src="./awards/e.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
-**학회:** 2025년도 한국정보보호학회 동계학술대회  
+**학회:** 2025년도 한국정보보호학회 동계학술대회 (CISC-W 2025)  
 **논문 제목:** CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구  
 **저자:** 최종윤, **신민석(제2저자)**, 김한결, 위다빈, 박명서  
 **수상일:** 2025-11-27  
