@@ -89,7 +89,7 @@ Hansung University, Korea
 
 **대회:** 제21회 한성공학경진대회  
 **논문 제목:** 기술 유출 및 겸직·겹업 위반 대응을 위한 Hiworks 협업 도구 로그 분석 자동화 툴 개발  
-**저자:** **신민석 (주저자, First Author)**  
+**저자:** **신민석(팀장)**, 김대환 
 **수상일:** 2025-09-26  
 
 <br clear="all"/>
@@ -104,7 +104,7 @@ Hansung University, Korea
 **분야:** 아이디어  
 **작품 제목:** 생체 인식 기반 미래형 AI–블록체인 응급환자 골든타임 확보 시스템  
 **팀명:** 메디슨  
-**역할:** 김건우, **신민석**, 양다원, 정윤녕, 조수빈 
+**역할:** 김건우, **신민석**, 양다원, 정윤녕, 조수빈  
 **수상일:** 2025-08-13  
 
 <br clear="all"/>
@@ -153,6 +153,7 @@ Hansung University, Korea
 > First authorship is explicitly indicated only when my name appears first.
 
 ---
+
 ## 🎤 Conference Presentations (2025)
 
 > All entries below are **official peer-reviewed conference presentations** in 2025.  
@@ -172,7 +173,6 @@ Hansung University, Korea
 
 ---
 
-
 ### 🔹 HONAM 2025  
 *6th Honam Cyber Security Conference*
 
@@ -188,7 +188,16 @@ Hansung University, Korea
 *Korea Institute of Information Security & Cryptology – Central Conference*
 
 1. **그룹웨어 포렌식 기법 연구: Hiworks·DaouOffice 사례**  
-   - **Authors:** **신민석 (First Author)**, 최종윤, 장규영, 김한결, 김동인, 박명서   
+   - **Authors:** **신민석 (First Author)**, 최종윤, 장규영, 김한결, 김동인, 박명서  
+
+---
+
+### 🔹 KAF 2025  
+*Korea Association of Forensics – Paper Contest*
+
+1. **조직 내부 데이터 압수 수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로**  
+   - **Authors:** **신민석 (First Author)**  
+   - **Conference:** 2025 제2회 한국포렌식학회 논문경진대회  
 
 ---
 
@@ -202,9 +211,10 @@ Hansung University, Korea
    - **Authors:** 김대환, **신민석**, 장규영, 안원석, 박명서  
 
 3. **CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구**  
-   - **Authors:** 최종윤, **신민석**, 김한결, 위다빈, 박명서
-  
+   - **Authors:** 최종윤, **신민석**, 김한결, 위다빈, 박명서  
+
 ---
+
 ## 📫 Contact
 
 - Email: your_email@example.com  
