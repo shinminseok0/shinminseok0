@@ -172,16 +172,6 @@ Hansung University, Korea
 
 ---
 
-### 🔹 HONAM 2025  
-*6th Honam Cyber Security Conference*
-
-1. **생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구**  
-   - **Authors:** **신민석 (First Author)**, 최종윤, 김한결, 위다빈, 박명서  
-
-2. **Wrtn API 재구성에 기반한 생성형 AI 대화·기록물 포렌식 수집과 재현성 검증**  
-   - **Authors:** 최종윤, **신민석**, 김동인, 김한결, 박명서
-
----
 
 ### 🔹 HONAM 2025  
 *6th Honam Cyber Security Conference*
