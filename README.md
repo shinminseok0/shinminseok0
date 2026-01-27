@@ -166,28 +166,9 @@ Hansung University, Korea
 
 1. **겸직·겹업 위반 대응을 위한 Hiworks 협업 도구 로그 분석 자동화 툴 개발**  
    - **Authors:** **신민석 (First Author)**, 위다빈, 박명서  
-   - **Paper ID:** #70  
 
 2. **폴라리스 오피스 대상의 클라우드 포렌식 기술 연구**  
    - **Authors:** 위다빈, 김한결, 안원석, **신민석**, 박명서  
-   - **Paper ID:** #155  
-
----
-
-### 🔹 CISC-W 2025  
-*Korean Institute of Information Security & Cryptology – Winter Conference*
-
-1. **오픈소스 기반 Yurei 랜섬웨어에 대한 동적 분석 및 연관성 식별 연구**  
-   - **Authors:** 김한결, 위다빈, 최종윤, **신민석**, 박명서  
-   - **Paper ID:** #121  
-
-2. **차량용 인포테인먼트 기반 사용자 행위 추적**  
-   - **Authors:** 김대한, **신민석**, 장규영, 안원석, 박명서  
-   - **Paper ID:** #133  
-
-3. **CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구**  
-   - **Authors:** 최종윤, **신민석**, 김한결, 위다빈, 박명서  
-   - **Paper ID:** #137  
 
 ---
 
@@ -196,11 +177,20 @@ Hansung University, Korea
 
 1. **생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구**  
    - **Authors:** **신민석 (First Author)**, 최종윤, 김한결, 위다빈, 박명서  
-   - **Paper ID:** #9  
+
+2. **Wrtn API 재구성에 기반한 생성형 AI 대화·기록물 포렌식 수집과 재현성 검증**  
+   - **Authors:** 최종윤, **신민석**, 김동인, 김한결, 박명서
+
+---
+
+### 🔹 HONAM 2025  
+*6th Honam Cyber Security Conference*
+
+1. **생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구**  
+   - **Authors:** **신민석 (First Author)**, 최종윤, 김한결, 위다빈, 박명서  
 
 2. **Wrtn API 재구성에 기반한 생성형 AI 대화·기록물 포렌식 수집과 재현성 검증**  
    - **Authors:** 최종윤, **신민석**, 김동인, 김한결, 박명서  
-   - **Paper ID:** #10  
 
 ---
 
@@ -208,34 +198,23 @@ Hansung University, Korea
 *Korea Institute of Information Security & Cryptology – Central Conference*
 
 1. **그룹웨어 포렌식 기법 연구: Hiworks·DaouOffice 사례**  
-   - **Authors:** **신민석 (First Author)**, 최종윤, 장규영, 김한결, 김동인, 박명서  
-   - **Paper ID:** #57  
+   - **Authors:** **신민석 (First Author)**, 최종윤, 장규영, 김한결, 김동인, 박명서   
 
 ---
 
-## 📝 Summary
+### 🔹 CISC-W 2025  
+*Korean Institute of Information Security & Cryptology – Winter Conference*
 
-- **Total conference presentations in 2025:** 8 papers  
-- **First-author presentations:**  
-  - Hiworks 협업 도구 로그 분석 자동화 툴 개발 (CISC-S)  
-  - 생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구 (HONAM)  
-  - 그룹웨어 포렌식 기법 연구: Hiworks·DaouOffice 사례 (KIISCCC)  
+1. **오픈소스 기반 Yurei 랜섬웨어에 대한 동적 분석 및 연관성 식별 연구**  
+   - **Authors:** 김한결, 위다빈, 최종윤, **신민석**, 박명서  
 
-- Research Areas Covered:  
-  - Groupware & Cloud Forensics  
-  - Generative AI Data Forensics  
-  - Ransomware & Malware Analysis  
-  - In-vehicle Digital Forensics  
-  - Voice & Speech Forensics  
+2. **차량용 인포테인먼트 기반 사용자 행위 추적**  
+   - **Authors:** 김대환, **신민석**, 장규영, 안원석, 박명서  
 
-## 📌 Notes
-
-- Awards are ordered by **external vs. internal**, then by **first authorship**, then by **award level**.  
-- **First Author (주저자)** labels strictly follow the official author order on each certificate.  
-- Only **DBpia-indexed journal papers** are listed in Publications.  
-
+3. **CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구**  
+   - **Authors:** 최종윤, **신민석**, 김한결, 위다빈, 박명서
+  
 ---
-
 ## 📫 Contact
 
 - Email: your_email@example.com  
