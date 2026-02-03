@@ -140,7 +140,7 @@ Hansung University, Korea
 
 ## 📄 Publications
 
-### 🔹 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향  
+### 🔹 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향  (한국정보보호학회)
 - **Authors**: 최종윤, **신민석 (2nd author)**, 박화비, 한동균, 신준성, 박명서  
 - **Journal**: 정보보호학회지  
 - **Volume / Issue**: Vol.35, No.6  
@@ -162,7 +162,7 @@ Hansung University, Korea
 
 ---
 
-### 🔹 CISC-S 2025  
+### 🔹 CISC-S 2025  (한국정보보호학회)
 *Korean Institute of Information Security & Cryptology – Chungcheong Branch*
 
 1. **겸직·겹업 위반 대응을 위한 Hiworks 협업 도구 로그 분석 자동화 툴 개발**  
@@ -173,7 +173,7 @@ Hansung University, Korea
 
 ---
 
-### 🔹 HONAM 2025  
+### 🔹 HONAM 2025  (한국정보보호학회)
 *6th Honam Cyber Security Conference*
 
 1. **생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구**  
@@ -184,7 +184,7 @@ Hansung University, Korea
 
 ---
 
-### 🔹 KIISCCC 2025  
+### 🔹 KIISCCC 2025  (한국정보보호학회)
 *Korea Institute of Information Security & Cryptology – Central Conference*
 
 1. **그룹웨어 포렌식 기법 연구: Hiworks·DaouOffice 사례**  
@@ -201,7 +201,7 @@ Hansung University, Korea
 
 ---
 
-### 🔹 CISC-W 2025  
+### 🔹 CISC-W 2025  (한국정보보호학회)
 *Korean Institute of Information Security & Cryptology – Winter Conference*
 
 1. **오픈소스 기반 Yurei 랜섬웨어에 대한 동적 분석 및 연관성 식별 연구**  
