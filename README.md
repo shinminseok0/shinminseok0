@@ -192,7 +192,7 @@ Hansung University, Korea
 
 ---
 
-### 🔹 KAF 2025  
+### 🔹 KAF 2025  (한국포렌식학회 논문경진대회)
 *Korea Association of Forensics – Paper Contest*
 
 1. **조직 내부 데이터 압수 수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로**  
