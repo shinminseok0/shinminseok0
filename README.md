@@ -1,16 +1,29 @@
-<h1>
-  🧑‍🎓✨ Hi, I'm Minseok Shin (신민석)
-  <img src="./assets/hansung_logo.png"
-       width="28"
-       height="28"
-       style="border-radius:50%; vertical-align:middle; margin-left:8px;"
-       alt="Hansung University"/>
-</h1>
+# 🧑‍🎓 Minseok Shin
 
 Undergraduate student & Digital Forensics / Security Researcher  
-Hansung University, Korea  
+Hansung University, Korea
 
 ---
+
+## 🎓 Education
+
+<p>
+  <img src="./assets/hansung_logo.png"
+       width="70"
+       align="left"
+       style="margin-right:16px;"
+       alt="Hansung University Logo"/>
+</p>
+
+**B.S. in Computer Engineering**  
+Convergence Security Track  
+Hansung University, Korea  
+Undergraduate Student
+
+<br clear="all"/>
+
+---
+
 
 ## 🏆 Honors & Awards
 
