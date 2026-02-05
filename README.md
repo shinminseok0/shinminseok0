@@ -1,6 +1,6 @@
 # 🧑‍🎓 Minseok Shin
 
-Undergraduate student & Digital Forensics / Security Researcher  
+Undergraduate student  
 Hansung University, Korea
 
 ---
@@ -235,11 +235,4 @@ Undergraduate Student
 
 ---
 
-## 📫 Contact
-
-- Email: your_email@example.com  
-- Research Interests:  
-  - Digital Forensics  
-  - Mobile App Forensics  
-  - Cloud & Groupware Forensics  
-  - AI-generated Data Forensics  
+## 📫 폐관수련
