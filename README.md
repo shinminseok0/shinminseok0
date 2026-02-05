@@ -1,6 +1,13 @@
-# 🧑‍🎓✨ Hi, I'm Minseok Shin (신민석)
+<h1>
+  🧑‍🎓✨ Hi, I'm Minseok Shin (신민석)
+  <img src="./assets/hansung_logo.png"
+       width="28"
+       height="28"
+       style="border-radius:50%; vertical-align:middle; margin-left:8px;"
+       alt="Hansung University"/>
+</h1>
 
-Graduate student & Digital Forensics / Security Researcher  
+Undergraduate student & Digital Forensics / Security Researcher  
 Hansung University, Korea  
 
 ---
