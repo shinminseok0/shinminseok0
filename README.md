@@ -5,24 +5,6 @@ Hansung University, Korea
 
 ---
 
-## 🎓 Education
-
-<p>
-  <img src="./assets/hansung_logo.png"
-       width="70"
-       align="left"
-       style="margin-right:16px;"
-       alt="Hansung University Logo"/>
-</p>
-
-**B.S. in Computer Engineering**  
-Convergence Security Track  
-Hansung University, Korea  
-Undergraduate Student
-
-<br clear="all"/>
-
----
 
 
 ## 🏆 Honors & Awards
@@ -235,4 +217,4 @@ Undergraduate Student
 
 ---
 
-## 📫 폐관수련
+## 📫 폐관수련 중
