@@ -10,9 +10,6 @@ Hansung University, Korea
 ## 🏆 Honors & Awards
 
 > All awards below are official certificates from academic conferences and university competitions.  
-> Awards are listed in descending order by **academic prestige**:  
-> **External conferences first → First-author papers first → Higher-level awards first.**  
-> When my name (신민석) appears first, I am the **First Author / Lead Contributor**.
 
 ---
 
