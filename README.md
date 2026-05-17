@@ -6,7 +6,7 @@ School of Computer Engineering · Department of Convergence Security
 
 ---
 
-## 🧩 Leadership & Activities
+## 🧩 Activities
 
 ### 🔹 DEAT · Digital Forensics Club
 
