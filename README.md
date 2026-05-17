@@ -151,6 +151,20 @@ Hansung University, Korea
 > Note: In this paper, I am the **second author**.  
 > First authorship is explicitly indicated only when my name appears first.
 
+### 🔹 암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 - macOS 15 버전 이상 환경을 중심으로
+
+- **Authors**: 김대환, 위다빈, 김한결, 안원석, 김동인, 장규영, 최종윤, **신민석**, 임주경, 이인수, 박명서  
+- **Journal**: 법과학  
+- **Volume / Issue**: Vol.13, No.13  
+- **Pages**: 163–189  
+- **Published**: 2026  
+- **Publisher**: 대검찰청  
+- **KCI Status**: KCI Candidate  
+- **Link**: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390
+
+> Note: This paper focuses on the collection and analysis of encrypted Notes application data in macOS environments.  
+> Authorship order follows the official KCI record.
+
 ---
 
 ## 🎤 Conference Presentations (2025)
