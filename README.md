@@ -249,4 +249,4 @@ Hansung University, Korea
 
 ## 📫 Status
 
-폐관수련 중
+멘탈회복 중
