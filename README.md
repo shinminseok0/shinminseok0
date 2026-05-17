@@ -4,7 +4,6 @@
 Hansung University, Korea  
 School of Computer Engineering · Department of Convergence Security  
 
-Research interests: Digital Forensics, Cloud Forensics, API Reengineering, Security Automation
 
 ---
 
