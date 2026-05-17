@@ -41,7 +41,7 @@ School of Computer Engineering · Department of Convergence Security
 
 ---
 
-### 🥈 3. 은상
+### 🥈 3. 은상 (한국포렌식학회장상)
 
 <img src="./awards/f.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
