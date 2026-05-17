@@ -10,7 +10,7 @@ School of Computer Engineering · Department of Convergence Security
 
 ### 🔹 DEAT · Digital Forensics Club
 
-**DEAT**는 한성대학교 정보보안 분야 동아리로, **디지털 포렌식, 리버스 엔지니어링, 악성코드 분석, 랜섬웨어 분석, 앱 분석** 등을 중심으로 실습 기반 학습과 보안 연구 활동을 수행하는 동아리입니다.
+**DEAT**는 한성대학교 정보보안 분야 동아리로 **디지털 포렌식, 리버스 엔지니어링, 악성코드 분석, 랜섬웨어 분석, 앱 분석** 등을 중심으로 실습 기반 학습과 보안 연구 활동을 수행하는 동아리입니다.
 
 - **President** — 2026년 1학기(진행 중) 
 - **Vice President** — 2025년 2학기  
