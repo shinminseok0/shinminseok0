@@ -140,7 +140,7 @@ Hansung University, Korea
 ## 📄 Publications
 
 ### 🔹 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향  (한국정보보호학회)
-- **Authors**: 최종윤, **신민석 (2nd author)**, 박화비, 한동균, 신준성, 박명서  
+- **Authors**: 최종윤, **신민석**, 박화비, 한동균, 신준성, 박명서  
 - **Journal**: 정보보호학회지  
 - **Volume / Issue**: Vol.35, No.6  
 - **Pages**: 41–48  
