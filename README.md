@@ -159,6 +159,18 @@ Hansung University, Korea
 > Authorship order strictly follows the submission system records.  
 > **First Author (주저자)** is explicitly marked only when my name appears first.
 
+
+---
+
+### 🔹 CISC-S 2026  (한국정보보호학회)
+*Korean Institute of Information Security & Cryptology – Chungcheong Branch*
+
+1. **Google Drive 서비스의 API 재구성 기반 선택적 데이터 수집 및 숨김·삭제 파일 메타데이터 획득 연구**  
+   - **Authors:** **신민석 (First Author)**, 최종윤, 김한결, 김대환, 박명서  
+   
+2. **상담 음성 기반 프로파일 화자 분리 및 발화 재구성 연구**  
+   - **Authors:** 최종윤, **신민석**, 김대환, 김한결, 박명서  
+    
 ---
 
 ### 🔹 CISC-S 2025  (한국정보보호학회)
