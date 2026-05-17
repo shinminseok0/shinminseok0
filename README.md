@@ -182,7 +182,7 @@ Hansung University, Korea
 ## 2026
 
 ### 🔹 CISC-S 2026  
-*Korean Institute of Information Security & Cryptology – Chungcheong Branch*
+*Korean Institute of Information Security & Cryptology*
 
 1. **Google Drive 서비스의 API 재구성 기반 선택적 데이터 수집 및 숨김·삭제 파일 메타데이터 획득 연구**  
    - **Authors:** **신민석(주저자)**, 최종윤, 김한결, 김대환, 박명서  
@@ -195,7 +195,7 @@ Hansung University, Korea
 ## 2025
 
 ### 🔹 CISC-S 2025  
-*Korean Institute of Information Security & Cryptology – Chungcheong Branch*
+*Korean Institute of Information Security & Cryptology*
 
 1. **겸직·겹업 위반 대응을 위한 Hiworks 협업 도구 로그 분석 자동화 툴 개발**  
    - **Authors:** **신민석(주저자)**, 위다빈, 박명서  
