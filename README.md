@@ -54,7 +54,7 @@ School of Computer Engineering · Department of Convergence Security
 
 ---
 
-### 🥇 4. 우수논문상 / 한국방송통신전파진흥원장상
+### 🥇 4. 우수논문상 (한국방송통신전파진흥원장상)
 
 <img src="./awards/KCA.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
@@ -67,7 +67,7 @@ School of Computer Engineering · Department of Convergence Security
 
 ---
 
-### 🥇 5. 정보보호학회장상 / 우수논문
+### 🥇 5. 우수논문 (정보보호학회장상) 
 
 <img src="./awards/e.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
@@ -95,7 +95,7 @@ School of Computer Engineering · Department of Convergence Security
 
 ---
 
-### 🥇 7. 대상
+### 🥇 7. 대상 (아이디어 부문)
 
 <img src="./awards/a.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
@@ -110,7 +110,7 @@ School of Computer Engineering · Department of Convergence Security
 
 ---
 
-### 🥈 8. 우수상
+### 🥈 8. 우수상 
 
 <img src="./awards/d.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
@@ -123,7 +123,7 @@ School of Computer Engineering · Department of Convergence Security
 
 ---
 
-### 🥉 9. 동상
+### 🥉 9. 동상 (아이디어 부문)
 
 <img src="./awards/b.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
