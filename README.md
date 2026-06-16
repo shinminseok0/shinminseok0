@@ -248,7 +248,7 @@ macOS 환경에서 생성되는 통합 로그 데이터를 분석하여 사용�
 
 ### 🥈 10. 우수상
 
-<img src="./awards/darkweb.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
+<img src="./awards/capstone.jpg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
 **대회:** 2026 융합보안 캡스톤 디자인<br>
 **프로젝트:** LLM 기반 다크웹 도메인 분석 및 위험도 평가 시스템<br>
