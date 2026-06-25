@@ -80,7 +80,7 @@
 
 ### 01. 경찰청장상
 
-<img src="./awards/police.jpg" align="right" width="180" alt="경찰청장상 상장"/>
+<img src="./awards/Police.jpeg" align="right" width="180" alt="경찰청장상 상장"/>
 
 **학술대회:** 2026년 (사)한국디지털포렌식학회 하계학술대회<br>
 **논문명:** 스마트홈 로봇청소기 아티팩트 분석 연구: Ecovacs를 중심으로<br>
