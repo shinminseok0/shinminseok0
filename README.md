@@ -140,7 +140,7 @@
 
 ### 05. 한국정보보호학회장상
 
-<img src="./awards/sidechannel.jpg" align="right" width="180" alt="제9회 부채널정보분석경진대회 한국정보보호학회장상 상장"/>
+<img src="./awards/googledrive.jpeg" align="right" width="180" alt="제9회 부채널정보분석경진대회 한국정보보호학회장상 상장"/>
 
 **대회:** 제9회 부채널정보분석경진대회<br>
 **논문명:** Windows/macOS 환경에서의 Google Drive 내부 API 재구성 기반 선택적 메타데이터 수집 및 숨김·삭제된 파일 획득 자동화 도구 구현<br>
