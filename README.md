@@ -204,7 +204,7 @@
 
 ---
 
-### 08. 최우수상 · 논문 부문
+### 09. 최우수상 · 논문 부문
 
 <img src="./awards/c.jpeg" align="right" width="180" alt="한성공학경진대회 최우수상 상장"/>
 
@@ -219,7 +219,7 @@
 
 ---
 
-### 09. 대상 · 아이디어 부문
+### 10. 대상 · 아이디어 부문
 
 <img src="./awards/a.jpeg" align="right" width="180" alt="창의융합역량 경진대회 대상 상장"/>
 
@@ -235,7 +235,7 @@
 
 ---
 
-### 10. 우수상
+### 11. 우수상
 
 <img src="./awards/d.jpeg" align="right" width="180" alt="한성 SW중심대학 페스티벌 우수상 상장"/>
 
@@ -251,7 +251,7 @@
 
 ---
 
-### 11. 동상 · 아이디어 부문
+### 12. 동상 · 아이디어 부문
 
 <img src="./awards/b.jpeg" align="right" width="180" alt="창의융합역량 경진대회 동상 상장"/>
 
@@ -267,7 +267,7 @@
 
 ---
 
-### 12. 우수상
+### 13. 우수상
 
 <img src="./awards/capstone.jpg" align="right" width="180" alt="융합보안 캡스톤 디자인 우수상 상장"/>
 
