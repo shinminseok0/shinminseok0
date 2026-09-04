@@ -288,7 +288,7 @@
 ### 01. 생성형 AI 대화 데이터의 수집 및 분석 연구: Wrtn과 Perplexity 애플리케이션 중심으로
 
 <div align="center">
-  <img src="./publications/journal_01_cover.jpg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="생성형 AI 대화 데이터의 수집 및 분석 연구 표지"/>
+  <img src="./awards/1.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="생성형 AI 대화 데이터의 수집 및 분석 연구 표지"/>
 </div>
 
 *<em>A Study on the Acquisition and Analysis of Generative AI Conversational Data: A Case Study of Wrtn and Perplexity Applications</em>*
@@ -333,7 +333,7 @@
 ### 02. 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향
 
 <div align="center">
-  <img src="./publications/journal_02_cover.jpg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향 표지"/>
+  <img src="./awards/2.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향 표지"/>
 </div>
 
 <table>
@@ -378,7 +378,7 @@
 #### macOS 15 버전 이상 환경을 중심으로
 
 <div align="center">
-  <img src="./publications/journal_03_cover.jpg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
+  <img src="./awards/note.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
 </div>
 
 <table>
@@ -423,7 +423,7 @@
 ### 04. [논문명 입력]
 
 <div align="center">
-  <img src="./publications/journal_04_cover.jpg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="논문 4 표지"/>
+  <img src="./awards/llm.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="논문 4 표지"/>
 </div>
 
 <table>
