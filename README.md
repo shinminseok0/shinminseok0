@@ -186,7 +186,7 @@
 ### 08. 한국정보기술진흥원 2026 하계 대학생 IT논문경진대회 우수논문상
 
 <!-- 최종 수상 후 상장 이미지를 추가하세요.
-<img src="./awards/IT_Paper_2026.jpeg" align="right" width="180" alt="2026 하계 대학생 IT논문경진대회 우수논문상 상장"/>
+<img src="./awards/proxy.jpeg" align="right" width="180" alt="2026 하계 대학생 IT논문경진대회 우수논문상 상장"/>
 -->
 
 **대회:** 2026 하계 대학생 IT논문경진대회<br>
