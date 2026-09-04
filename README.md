@@ -459,18 +459,50 @@
 
 ---
 
-### 04. [논문명 입력]
+### 04. LLM 기반 생성형 AI 개인정보 민감정보 보호 및 디지털포렌식 감사 시스템 구축: Google Gemini 사례를 중심으로
 
 <table>
 <tr>
 <td width="46%" valign="top">
 
-<img src="./awards/llm.jpeg" width="100%" alt="논문 4 표지"/>
+<img src="./publications/journal_04_cover.jpg" width="100%" alt="LLM 기반 생성형 AI 개인정보 민감정보 보호 및 디지털포렌식 감사 시스템 구축 논문 표지"/>
 
 </td>
 <td width="54%" valign="top">
 
+<em>Development of an LLM-Based Privacy and Sensitive Information Protection System with Digital Forensics Auditing: A Case Study of Google Gemini</em>
+
+<br><br>
+
 <table>
+<tr>
+<td><strong>저자</strong></td>
+<td>유보애, <strong>신민석</strong></td>
+</tr>
+<tr>
+<td><strong>학술지</strong></td>
+<td>한국정보기술진흥원 학술지</td>
+</tr>
+<tr>
+<td><strong>발행기관</strong></td>
+<td>한국정보기술진흥원</td>
+</tr>
+<tr>
+<td><strong>권호</strong></td>
+<td>제3권 제2호</td>
+</tr>
+<tr>
+<td><strong>게재연도</strong></td>
+<td>2026</td>
+</tr>
+<tr>
+<td><strong>소속</strong></td>
+<td>한성대학교</td>
+</tr>
+<tr>
+<td><strong>역할</strong></td>
+<td>공동저자</td>
+</tr>
 <tr>
 <td><strong>링크</strong></td>
 <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12936356">DBpia 논문 페이지</a></td>
