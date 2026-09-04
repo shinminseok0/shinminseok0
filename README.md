@@ -445,7 +445,7 @@
 </tr>
 <tr>
 <td><strong>링크</strong></td>
-<td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">KCI 논문 페이지</a></td>
+<td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">법과학의 신동향 논문 페이지</a></td>
 </tr>
 </table>
 
