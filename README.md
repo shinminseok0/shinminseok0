@@ -491,45 +491,49 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 <table style="border:0; border-collapse:collapse; width:100%;">
 <tr>
-<td width="46%" align="center" valign="middle" style="border:0; padding:12px 24px 12px 0;">
 
-<img src="./awards/note.jpeg" width="100%" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
+<td width="52%" align="center" valign="middle" style="border:0; padding:8px 20px 8px 0; overflow:hidden;">
+
+<div align="center" style="width:100%; overflow:hidden;">
+<img src="./awards/note.jpeg" width="118%" style="max-width:none; display:block; margin:0 auto;" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
+</div>
 
 </td>
-<td width="54%" align="center" valign="middle" style="border:0; padding:12px 0 12px 24px;">
 
-<table style="margin:auto;">
+<td width="48%" align="center" valign="middle" style="border:0; padding:8px 0 8px 20px;">
+
+<table style="margin:auto; width:100%;">
 <tr>
-<td><strong>저자</strong></td>
-<td>김대환, 위다빈, 김한결, 안원석, 김동인, 장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
+<td width="23%" align="center" valign="middle"><strong>저자</strong></td>
+<td width="77%" valign="middle">김대환, 위다빈, 김한결, 안원석, 김동인, 장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
 </tr>
 <tr>
-<td><strong>학술지</strong></td>
-<td>법과학</td>
+<td align="center" valign="middle"><strong>학술지</strong></td>
+<td valign="middle">법과학</td>
 </tr>
 <tr>
-<td><strong>권호</strong></td>
-<td>Vol.13, No.13</td>
+<td align="center" valign="middle"><strong>권호</strong></td>
+<td valign="middle">Vol.13, No.13</td>
 </tr>
 <tr>
-<td><strong>페이지</strong></td>
-<td>163–189</td>
+<td align="center" valign="middle"><strong>페이지</strong></td>
+<td valign="middle">163–189</td>
 </tr>
 <tr>
-<td><strong>게재연도</strong></td>
-<td>2026</td>
+<td align="center" valign="middle"><strong>게재연도</strong></td>
+<td valign="middle">2026</td>
 </tr>
 <tr>
-<td><strong>발행기관</strong></td>
-<td>대검찰청</td>
+<td align="center" valign="middle"><strong>발행기관</strong></td>
+<td valign="middle">대검찰청</td>
 </tr>
 <tr>
-<td><strong>KCI 등재 여부</strong></td>
-<td>KCI 등재후보</td>
+<td align="center" valign="middle"><strong>KCI 등재 여부</strong></td>
+<td valign="middle">KCI 등재후보</td>
 </tr>
 <tr>
-<td><strong>링크</strong></td>
-<td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">법과학의 신동향 논문 페이지</a></td>
+<td align="center" valign="middle"><strong>링크</strong></td>
+<td valign="middle"><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">법과학의 신동향 논문 페이지</a></td>
 </tr>
 </table>
 
