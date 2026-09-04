@@ -31,17 +31,16 @@
 <table>
 <thead>
 <tr>
-<th width="30%">연구과제</th>
-<th width="18%">수행기관</th>
-<th width="52%">주요 수행 내용</th>
+<th width="30%" align="center" valign="middle">연구과제</th>
+<th width="18%" align="center" valign="middle">수행기관</th>
+<th width="52%" align="center" valign="middle">주요 수행 내용</th>
 </tr>
 </thead>
 
 <tbody>
 
-
 <tr>
-<td valign="top">
+<td align="center" valign="middle">
 <strong>정보은닉 앱 암호해제 기술 연구개발</strong>
 <br><br>
 <code>애플리케이션 포렌식</code>
@@ -52,13 +51,13 @@
 경찰청
 </td>
 
-<td valign="top">
+<td align="center" valign="middle">
 정보은닉 애플리케이션의 내부 저장 구조와 암·복호화 로직을 분석하고, 암호화 데이터의 식별 및 포렌식 관점에서의 복원 가능성을 검토
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td align="center" valign="middle">
 <strong>클라우드 데이터 획득·분석 절차 연구</strong>
 <br><br>
 <code>클라우드 포렌식</code>
@@ -69,13 +68,13 @@
 대검찰청
 </td>
 
-<td valign="top">
+<td align="center" valign="middle">
 클라우드 환경의 데이터 획득 기술과 분석 절차를 검토하고, 데이터 획득의 신뢰성, 선별 수집 가능성 및 수사 절차 적용 가능성을 연구
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td align="center" valign="middle">
 <strong>macOS 통합 로그 데이터 분석기법 연구</strong>
 <br><br>
 <code>macOS 포렌식</code>
@@ -85,13 +84,14 @@
 <td align="center" valign="middle">
 대검찰청
 </td>
-<td valign="top">
+
+<td align="center" valign="middle">
 macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작, 애플리케이션 실행 흔적 및 보안 이벤트를 식별하는 분석기법 연구에 참여
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td align="center" valign="middle">
 <strong>드론 조종기 포렌식 분석 방법론 개발</strong>
 <br><br>
 <code>드론 포렌식</code>
@@ -102,15 +102,13 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 한국원자력연구원
 </td>
 
-<td valign="top">
+<td align="center" valign="middle">
 드론 조종기와 관련 장치에서 생성되는 디지털 증거를 분석하고, 사용자 행위 흔적과 장치 사용 기록을 식별하기 위한 포렌식 분석 방법론 개발에 참여
 </td>
 </tr>
 
-
-
 <tr>
-<td valign="top">
+<td align="center" valign="middle">
 <strong>애플리케이션 네트워크 취약점 자동 탐지 기술 개발</strong>
 <br><br>
 <code>애플리케이션 보안</code>
@@ -121,13 +119,14 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 한국연구재단
 </td>
 
-<td valign="top">
+<td align="center" valign="middle">
 애플리케이션의 네트워크 요청 구조와 통신 흐름을 분석하고, 취약 가능 지점을 식별하여 네트워크 취약점 탐지 절차의 자동화 방향을 검토
 </td>
 </tr>
 
 </tbody>
 </table>
+
 ## [ LEADERSHIP & ACTIVITIES ]
 
 ### DEAT — Digital Forensics & Security Research Club
