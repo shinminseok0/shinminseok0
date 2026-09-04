@@ -291,7 +291,7 @@
 <tr>
 <td width="46%" valign="top">
 
-<img src="./publications/journal_01_cover.jpg" width="100%" alt="생성형 AI 대화 데이터의 수집 및 분석 연구 표지"/>
+<img src="./awards/1.jpeg" width="100%" alt="생성형 AI 대화 데이터의 수집 및 분석 연구 표지"/>
 
 </td>
 <td width="54%" valign="top">
@@ -349,7 +349,7 @@
 <tr>
 <td width="46%" valign="top">
 
-<img src="./publications/journal_02_cover.jpg" width="100%" alt="암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향 표지"/>
+<img src="./awards/2.jpeg" width="100%" alt="암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향 표지"/>
 
 </td>
 <td width="54%" valign="top">
@@ -405,7 +405,7 @@
 <tr>
 <td width="46%" valign="top">
 
-<img src="./publications/journal_03_cover.jpg" width="100%" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
+<img src="./awards/note.jpeg" width="100%" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
 
 </td>
 <td width="54%" valign="top">
@@ -461,7 +461,7 @@
 <tr>
 <td width="46%" valign="top">
 
-<img src="./publications/journal_04_cover.jpg" width="100%" alt="논문 4 표지"/>
+<img src="./awards/llm.jpeg" width="100%" alt="논문 4 표지"/>
 
 </td>
 <td width="54%" valign="top">
