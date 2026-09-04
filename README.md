@@ -85,6 +85,10 @@
 <td align="center" valign="middle">
 대검찰청
 </td>
+<td valign="top">
+macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작, 애플리케이션 실행 흔적 및 보안 이벤트를 식별하는 분석기법 연구에 참여
+</td>
+</tr>
 
 <tr>
 <td valign="top">
@@ -103,10 +107,7 @@
 </td>
 </tr>
 
-<td valign="top">
-macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작, 애플리케이션 실행 흔적 및 보안 이벤트를 식별하는 분석기법 연구에 참여
-</td>
-</tr>
+
 
 <tr>
 <td valign="top">
