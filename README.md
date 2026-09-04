@@ -384,8 +384,6 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 </td>
 <td width="54%" valign="top">
 
-<em>A Study on the Acquisition and Analysis of Generative AI Conversational Data: A Case Study of Wrtn and Perplexity Applications</em>
-
 <br><br>
 
 <table>
@@ -557,8 +555,6 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 </td>
 <td width="54%" valign="top">
-
-<em>Development of an LLM-Based Privacy and Sensitive Information Protection System with Digital Forensics Auditing: A Case Study of Google Gemini</em>
 
 <br><br>
 
