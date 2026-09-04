@@ -2,11 +2,11 @@
 
 ### Digital Forensics · Security Research
 
-**한성대학교 학사 졸업**(**Bachelor's Degree in Computer Engineering & Convergence Security**)
-한성대학교 컴퓨터공학부&융합보안학과
+**한성대학교 학사 졸업**
+한성대학교 컴퓨터공학부&융합보안학과(**Bachelor's Degree in Computer Engineering & Convergence Security**)
 
-**한성대학교 석사 과정**(**Master's Student in Convergence Security**)
-한성대학교 융합보안학과 융합보안
+**한성대학교 석사 과정**
+한성대학교 융합보안학과 융합보안(**Master's Student in Convergence Security**)
 
 ---
 
