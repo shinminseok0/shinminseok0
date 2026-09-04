@@ -505,7 +505,8 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 <table style="margin:auto; width:100%;">
 <tr>
 <td width="23%" align="center" valign="middle"><strong>저자</strong></td>
-<td width="77%" valign="middle">김대환, 위다빈, 김한결, 안원석, 김동인, 장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
+<td width="77%" valign="middle">김대환, 위다빈, 김한결, 안원석, 김동인, 
+  장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
 </tr>
 <tr>
 <td align="center" valign="middle"><strong>학술지</strong></td>
