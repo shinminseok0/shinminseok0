@@ -416,7 +416,7 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 </tr>
 <tr>
 <td><strong>역할</strong></td>
-<td>공동저자</td>
+<td>제2저자</td>
 </tr>
 <tr>
 <tr>
