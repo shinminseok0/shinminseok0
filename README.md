@@ -285,13 +285,43 @@
 
 > 저자 순서는 공식 게재 기록을 기준으로 작성하였습니다.
 
-### 01. [논문명 입력]
+### 01. 생성형 AI 대화 데이터의 수집 및 분석 연구: Wrtn과 Perplexity 애플리케이션 중심으로
 
 <div align="center">
-  <img src="./awards/1.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="논문 1 표지"/>
+  <img src="./publications/journal_01_cover.jpg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="생성형 AI 대화 데이터의 수집 및 분석 연구 표지"/>
 </div>
 
+*<em>A Study on the Acquisition and Analysis of Generative AI Conversational Data: A Case Study of Wrtn and Perplexity Applications</em>*
+
 <table>
+  <tr>
+    <td><strong>저자</strong></td>
+    <td>최종윤, <strong>신민석</strong>, 김동인, 김한결, 박명서</td>
+  </tr>
+  <tr>
+    <td><strong>학술지</strong></td>
+    <td>정보보호학회논문지</td>
+  </tr>
+  <tr>
+    <td><strong>발행기관</strong></td>
+    <td>한국정보보호학회</td>
+  </tr>
+  <tr>
+    <td><strong>권호</strong></td>
+    <td>제36권 제4호</td>
+  </tr>
+  <tr>
+    <td><strong>게재연도</strong></td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td><strong>소속</strong></td>
+    <td>한성대학교</td>
+  </tr>
+  <tr>
+    <td><strong>역할</strong></td>
+    <td>공동저자</td>
+  </tr>
   <tr>
     <td><strong>링크</strong></td>
     <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138">DBpia 논문 페이지</a></td>
