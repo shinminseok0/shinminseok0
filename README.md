@@ -288,7 +288,7 @@
 ### 01. [논문명 입력]
 
 <div align="center">
-  <img src="./publications/journal_01_cover.jpg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="논문 1 표지"/>
+  <img src="./awards/1.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="논문 1 표지"/>
 </div>
 
 <table>
