@@ -330,6 +330,10 @@
 <td>공동저자</td>
 </tr>
 <tr>
+<tr>
+<td><strong>KCI 등재 여부</strong></td>
+<td>KCI 등재</td>
+</tr>
 <td><strong>링크</strong></td>
 <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138">DBpia 논문 페이지</a></td>
 </tr>
