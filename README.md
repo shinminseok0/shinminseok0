@@ -375,18 +375,16 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ### 01. 생성형 AI 대화 데이터의 수집 및 분석 연구: Wrtn과 Perplexity 애플리케이션 중심으로
 
-<table>
+<table style="border:0; border-collapse:collapse; width:100%;">
 <tr>
-<td width="46%" valign="top">
+<td width="46%" align="center" valign="middle" style="border:0; padding:12px 24px 12px 0;">
 
 <img src="./awards/1.jpeg" width="100%" alt="생성형 AI 대화 데이터의 수집 및 분석 연구 표지"/>
 
 </td>
-<td width="54%" valign="top">
+<td width="54%" align="center" valign="middle" style="border:0; padding:12px 0 12px 24px;">
 
-<br><br>
-
-<table>
+<table style="margin:auto;">
 <tr>
 <td><strong>저자</strong></td>
 <td>최종윤, <strong>신민석</strong>, 김동인, 김한결, 박명서</td>
@@ -416,10 +414,10 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 <td>제2저자</td>
 </tr>
 <tr>
-<tr>
 <td><strong>KCI 등재 여부</strong></td>
 <td>KCI 등재</td>
 </tr>
+<tr>
 <td><strong>링크</strong></td>
 <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138">DBpia 논문 페이지</a></td>
 </tr>
@@ -435,16 +433,16 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ### 02. 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향
 
-<table>
+<table style="border:0; border-collapse:collapse; width:100%;">
 <tr>
-<td width="46%" valign="top">
+<td width="46%" align="center" valign="middle" style="border:0; padding:12px 24px 12px 0;">
 
 <img src="./awards/2.jpeg" width="100%" alt="암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향 표지"/>
 
 </td>
-<td width="54%" valign="top">
+<td width="54%" align="center" valign="middle" style="border:0; padding:12px 0 12px 24px;">
 
-<table>
+<table style="margin:auto;">
 <tr>
 <td><strong>저자</strong></td>
 <td>최종윤, <strong>신민석</strong>, 박화비, 한동균, 신준성, 박명서</td>
@@ -491,16 +489,16 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 #### macOS 15 버전 이상 환경을 중심으로
 
-<table>
+<table style="border:0; border-collapse:collapse; width:100%;">
 <tr>
-<td width="46%" valign="top">
+<td width="46%" align="center" valign="middle" style="border:0; padding:12px 24px 12px 0;">
 
 <img src="./awards/note.jpeg" width="100%" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
 
 </td>
-<td width="54%" valign="top">
+<td width="54%" align="center" valign="middle" style="border:0; padding:12px 0 12px 24px;">
 
-<table>
+<table style="margin:auto;">
 <tr>
 <td><strong>저자</strong></td>
 <td>김대환, 위다빈, 김한결, 안원석, 김동인, 장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
@@ -547,18 +545,16 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ### 04. LLM 기반 생성형 AI 개인정보 민감정보 보호 및 디지털포렌식 감사 시스템 구축: Google Gemini 사례를 중심으로
 
-<table>
+<table style="border:0; border-collapse:collapse; width:100%;">
 <tr>
-<td width="46%" valign="top">
+<td width="46%" align="center" valign="middle" style="border:0; padding:12px 24px 12px 0;">
 
 <img src="./awards/llm.jpeg" width="100%" alt="LLM 기반 생성형 AI 개인정보 민감정보 보호 및 디지털포렌식 감사 시스템 구축 논문 표지"/>
 
 </td>
-<td width="54%" valign="top">
+<td width="54%" align="center" valign="middle" style="border:0; padding:12px 0 12px 24px;">
 
-<br><br>
-
-<table>
+<table style="margin:auto;">
 <tr>
 <td><strong>저자</strong></td>
 <td>유보애, <strong>신민석</strong></td>
