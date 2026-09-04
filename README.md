@@ -287,89 +287,113 @@
 
 ### 01. 생성형 AI 대화 데이터의 수집 및 분석 연구: Wrtn과 Perplexity 애플리케이션 중심으로
 
-<div align="center">
-  <img src="./awards/1.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="생성형 AI 대화 데이터의 수집 및 분석 연구 표지"/>
-</div>
+<table>
+<tr>
+<td width="46%" valign="top">
 
-*<em>A Study on the Acquisition and Analysis of Generative AI Conversational Data: A Case Study of Wrtn and Perplexity Applications</em>*
+<img src="./publications/journal_01_cover.jpg" width="100%" alt="생성형 AI 대화 데이터의 수집 및 분석 연구 표지"/>
+
+</td>
+<td width="54%" valign="top">
+
+<em>A Study on the Acquisition and Analysis of Generative AI Conversational Data: A Case Study of Wrtn and Perplexity Applications</em>
+
+<br><br>
 
 <table>
-  <tr>
-    <td><strong>저자</strong></td>
-    <td>최종윤, <strong>신민석</strong>, 김동인, 김한결, 박명서</td>
-  </tr>
-  <tr>
-    <td><strong>학술지</strong></td>
-    <td>정보보호학회논문지</td>
-  </tr>
-  <tr>
-    <td><strong>발행기관</strong></td>
-    <td>한국정보보호학회</td>
-  </tr>
-  <tr>
-    <td><strong>권호</strong></td>
-    <td>제36권 제4호</td>
-  </tr>
-  <tr>
-    <td><strong>게재연도</strong></td>
-    <td>2026</td>
-  </tr>
-  <tr>
-    <td><strong>소속</strong></td>
-    <td>한성대학교</td>
-  </tr>
-  <tr>
-    <td><strong>역할</strong></td>
-    <td>공동저자</td>
-  </tr>
-  <tr>
-    <td><strong>링크</strong></td>
-    <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138">DBpia 논문 페이지</a></td>
-  </tr>
+<tr>
+<td><strong>저자</strong></td>
+<td>최종윤, <strong>신민석</strong>, 김동인, 김한결, 박명서</td>
+</tr>
+<tr>
+<td><strong>학술지</strong></td>
+<td>정보보호학회논문지</td>
+</tr>
+<tr>
+<td><strong>발행기관</strong></td>
+<td>한국정보보호학회</td>
+</tr>
+<tr>
+<td><strong>권호</strong></td>
+<td>제36권 제4호</td>
+</tr>
+<tr>
+<td><strong>게재연도</strong></td>
+<td>2026</td>
+</tr>
+<tr>
+<td><strong>소속</strong></td>
+<td>한성대학교</td>
+</tr>
+<tr>
+<td><strong>역할</strong></td>
+<td>공동저자</td>
+</tr>
+<tr>
+<td><strong>링크</strong></td>
+<td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138">DBpia 논문 페이지</a></td>
+</tr>
 </table>
+
+</td>
+</tr>
+</table>
+
+<br clear="all">
 
 ---
 
 ### 02. 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향
 
-<div align="center">
-  <img src="./awards/2.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향 표지"/>
-</div>
+<table>
+<tr>
+<td width="46%" valign="top">
+
+<img src="./publications/journal_02_cover.jpg" width="100%" alt="암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향 표지"/>
+
+</td>
+<td width="54%" valign="top">
 
 <table>
-  <tr>
-    <td><strong>저자</strong></td>
-    <td>최종윤, <strong>신민석</strong>, 박화비, 한동균, 신준성, 박명서</td>
-  </tr>
-  <tr>
-    <td><strong>학술지</strong></td>
-    <td>정보보호학회지</td>
-  </tr>
-  <tr>
-    <td><strong>권호</strong></td>
-    <td>Vol.35, No.6</td>
-  </tr>
-  <tr>
-    <td><strong>페이지</strong></td>
-    <td>41–48</td>
-  </tr>
-  <tr>
-    <td><strong>게재일</strong></td>
-    <td>2025-12</td>
-  </tr>
-  <tr>
-    <td><strong>소속</strong></td>
-    <td>한성대학교</td>
-  </tr>
-  <tr>
-    <td><strong>역할</strong></td>
-    <td>제2저자</td>
-  </tr>
-  <tr>
-    <td><strong>링크</strong></td>
-    <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12547751">DBpia 논문 페이지</a></td>
-  </tr>
+<tr>
+<td><strong>저자</strong></td>
+<td>최종윤, <strong>신민석</strong>, 박화비, 한동균, 신준성, 박명서</td>
+</tr>
+<tr>
+<td><strong>학술지</strong></td>
+<td>정보보호학회지</td>
+</tr>
+<tr>
+<td><strong>권호</strong></td>
+<td>Vol.35, No.6</td>
+</tr>
+<tr>
+<td><strong>페이지</strong></td>
+<td>41–48</td>
+</tr>
+<tr>
+<td><strong>게재일</strong></td>
+<td>2025-12</td>
+</tr>
+<tr>
+<td><strong>소속</strong></td>
+<td>한성대학교</td>
+</tr>
+<tr>
+<td><strong>역할</strong></td>
+<td>제2저자</td>
+</tr>
+<tr>
+<td><strong>링크</strong></td>
+<td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12547751">DBpia 논문 페이지</a></td>
+</tr>
 </table>
+
+</td>
+</tr>
+</table>
+
+<br clear="all">
 
 ---
 
@@ -377,61 +401,83 @@
 
 #### macOS 15 버전 이상 환경을 중심으로
 
-<div align="center">
-  <img src="./awards/note.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
-</div>
+<table>
+<tr>
+<td width="46%" valign="top">
+
+<img src="./publications/journal_03_cover.jpg" width="100%" alt="암호화된 Notes 애플리케이션 데이터 수집 및 복호화 방법 연구 표지"/>
+
+</td>
+<td width="54%" valign="top">
 
 <table>
-  <tr>
-    <td><strong>저자</strong></td>
-    <td>김대환, 위다빈, 김한결, 안원석, 김동인, 장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
-  </tr>
-  <tr>
-    <td><strong>학술지</strong></td>
-    <td>법과학</td>
-  </tr>
-  <tr>
-    <td><strong>권호</strong></td>
-    <td>Vol.13, No.13</td>
-  </tr>
-  <tr>
-    <td><strong>페이지</strong></td>
-    <td>163–189</td>
-  </tr>
-  <tr>
-    <td><strong>게재연도</strong></td>
-    <td>2026</td>
-  </tr>
-  <tr>
-    <td><strong>발행기관</strong></td>
-    <td>대검찰청</td>
-  </tr>
-  <tr>
-    <td><strong>KCI 등재 여부</strong></td>
-    <td>KCI 등재후보</td>
-  </tr>
-  <tr>
-    <td><strong>링크</strong></td>
-    <td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">KCI 논문 페이지</a></td>
-  </tr>
+<tr>
+<td><strong>저자</strong></td>
+<td>김대환, 위다빈, 김한결, 안원석, 김동인, 장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
+</tr>
+<tr>
+<td><strong>학술지</strong></td>
+<td>법과학</td>
+</tr>
+<tr>
+<td><strong>권호</strong></td>
+<td>Vol.13, No.13</td>
+</tr>
+<tr>
+<td><strong>페이지</strong></td>
+<td>163–189</td>
+</tr>
+<tr>
+<td><strong>게재연도</strong></td>
+<td>2026</td>
+</tr>
+<tr>
+<td><strong>발행기관</strong></td>
+<td>대검찰청</td>
+</tr>
+<tr>
+<td><strong>KCI 등재 여부</strong></td>
+<td>KCI 등재후보</td>
+</tr>
+<tr>
+<td><strong>링크</strong></td>
+<td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">KCI 논문 페이지</a></td>
+</tr>
+</table>
+
+</td>
+</tr>
 </table>
 
 > 본 논문은 macOS 환경에서 암호화된 Notes 애플리케이션 데이터의 수집 및 분석 방법을 다룬 연구입니다.
+
+<br clear="all">
 
 ---
 
 ### 04. [논문명 입력]
 
-<div align="center">
-  <img src="./awards/llm.jpeg" width="420" style="aspect-ratio: 210 / 297; object-fit: contain;" alt="논문 4 표지"/>
-</div>
+<table>
+<tr>
+<td width="46%" valign="top">
+
+<img src="./publications/journal_04_cover.jpg" width="100%" alt="논문 4 표지"/>
+
+</td>
+<td width="54%" valign="top">
 
 <table>
-  <tr>
-    <td><strong>링크</strong></td>
-    <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12936356">DBpia 논문 페이지</a></td>
-  </tr>
+<tr>
+<td><strong>링크</strong></td>
+<td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12936356">DBpia 논문 페이지</a></td>
+</tr>
 </table>
+
+</td>
+</tr>
+</table>
+
+<br clear="all">
 
 ---
 
