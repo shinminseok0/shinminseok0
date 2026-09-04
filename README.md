@@ -465,7 +465,7 @@
 <tr>
 <td width="46%" valign="top">
 
-<img src="./publications/journal_04_cover.jpg" width="100%" alt="LLM 기반 생성형 AI 개인정보 민감정보 보호 및 디지털포렌식 감사 시스템 구축 논문 표지"/>
+<img src="./awards/llm.jpeg" width="100%" alt="LLM 기반 생성형 AI 개인정보 민감정보 보호 및 디지털포렌식 감사 시스템 구축 논문 표지"/>
 
 </td>
 <td width="54%" valign="top">
