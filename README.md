@@ -340,7 +340,7 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ---
 
-### 15. 우수상
+### 13. 우수상
 
 <img src="./awards/d.jpeg" align="right" width="180" alt="한성 SW중심대학 페스티벌 우수상 상장"/>
 
@@ -372,7 +372,7 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ---
 
-### 13. 우수상
+### 15. 우수상
 
 <img src="./awards/capstone.jpg" align="right" width="180" alt="융합보안 캡스톤 디자인 우수상 상장"/>
 
