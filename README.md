@@ -286,11 +286,30 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ---
 
+
+### 09. 우수상 · 한전KDN
+
+**논문명:** 디지털 포렌식 관점에서의 API 재구성을 통한 YouTube 검색 기록·시청 기록·재생목록 획득에 관한 연구<br>
+**수상:** **우수상(한전KDN)**<br>
+
+<br clear="all">
+
+---
+
+### 10. 우수상 · 한국방송통신전파진흥원
+
+**논문명:** 안드로이드 환경에서의 정보은닉 애플리케이션 Private Photo Vault 분석 연구<br>
+**수상:** **우수상(한국방송통신전파진흥원)**<br>
+
+<br clear="all">
+
+---
+
 ### University Awards
 
 ---
 
-### 09. 최우수상 · 논문 부문
+### 11. 최우수상 · 논문 부문
 
 <img src="./awards/c.jpeg" align="right" width="180" alt="한성공학경진대회 최우수상 상장"/>
 
@@ -305,7 +324,7 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ---
 
-### 10. 대상 · 아이디어 부문
+### 12. 대상 · 아이디어 부문
 
 <img src="./awards/a.jpeg" align="right" width="180" alt="창의융합역량 경진대회 대상 상장"/>
 
@@ -321,7 +340,7 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ---
 
-### 11. 우수상
+### 15. 우수상
 
 <img src="./awards/d.jpeg" align="right" width="180" alt="한성 SW중심대학 페스티벌 우수상 상장"/>
 
@@ -337,7 +356,7 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ---
 
-### 12. 동상 · 아이디어 부문
+### 14. 동상 · 아이디어 부문
 
 <img src="./awards/b.jpeg" align="right" width="180" alt="창의융합역량 경진대회 동상 상장"/>
 
@@ -505,7 +524,8 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 <table style="margin:auto; width:100%;">
 <tr>
 <td width="23%" align="center" valign="middle"><strong>저자</strong></td>
-<td width="77%" valign="middle">김대환, 위다빈, 김한결, 안원석, 김동인, 장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
+<td width="77%" valign="middle">김대환, 위다빈, 김한결, 안원석, 김동인, 
+  장규영, 최종윤, <strong>신민석</strong>, 임주경, 이인수, 박명서</td>
 </tr>
 <tr>
 <td align="center" valign="middle"><strong>학술지</strong></td>
