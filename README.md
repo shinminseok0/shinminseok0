@@ -127,11 +127,12 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 </tbody>
 </table>
 
+## [ VULNERABILITY ANALYSIS ]
 ### Messenger Access Control Vulnerability Analysis
 
 `Access Control` `Reverse Engineering` `Network Analysis` `Application Security`
 
-**분석 대상:** 메신저 서비스
+**분석 대상:** 상용 메신저 서비스
 
 상용 메신저 서비스의 클라이언트 및 네트워크 통신 구조를 분석하여 사용자 간 접근통제 및 권한 검증 과정에서 발생하는 보안 취약점을 식별하였습니다.
 
