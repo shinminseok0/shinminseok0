@@ -127,6 +127,19 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 </tbody>
 </table>
 
+## [ SECURITY RESEARCH & VULNERABILITY ANALYSIS ]
+
+### Enterprise Groupware Messenger Access Control Vulnerability Analysis
+
+`Access Control` `WebSocket` `Socket.IO` `Reverse Engineering`
+`Network Analysis` `Application Security`
+
+**분석 대상:** 
+
+**주요 분석 내용**
+
+- 
+
 ## [ LEADERSHIP & ACTIVITIES ]
 
 ### DEAT — Digital Forensics & Security Research Club
