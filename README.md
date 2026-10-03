@@ -127,18 +127,19 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 </tbody>
 </table>
 
-## [ SECURITY RESEARCH & VULNERABILITY ANALYSIS ]
+### Messenger Access Control Vulnerability Analysis
 
-### Enterprise Groupware Messenger Access Control Vulnerability Analysis
+`Access Control` `Reverse Engineering` `Network Analysis` `Application Security`
 
-`Access Control` `WebSocket` `Socket.IO` `Reverse Engineering`
-`Network Analysis` `Application Security`
+**분석 대상:** 메신저 서비스
 
-**분석 대상:** 
+상용 메신저 서비스의 클라이언트 및 네트워크 통신 구조를 분석하여 사용자 간 접근통제 및 권한 검증 과정에서 발생하는 보안 취약점을 식별하였습니다.
 
-**주요 분석 내용**
+해당 취약점으로 인해 다른 사용자의 채팅방 및 전체 메시지 내역 조회, 채팅방에서의 전체 첨부파일 원본 획득, 타 사용자 명의의 메시지 전송 및 삭제, 활성 세션 종료가 가능함을 확인하였습니다.
+또한 사용자 식별 번호가 순차적으로 증가하는 구조로 관리되어 식별 값의 예측이 가능했으며, 이로 인해 특정 사용자에 한정되지 않고 다수 사용자를 대상으로 영향이 확대될 수 있는 대규모 공격 가능성이 존재함을 확인하였습니다.
+이를 통해 대화 내용 및 업무 데이터의 기밀성, 메시지의 무결성, 사용자 세션 및 서비스의 가용성에 모두 영향을 줄 수 있는 취약점임을 검증하였습니다.
 
-- 
+해당 취약점은 **한국인터넷진흥원(KISA)에 제보**하였으며, 이후 서비스 제공사의 보안 조치를 통해 관련 취약점에 대한 **패치가 완료되었습니다.**
 
 ## [ LEADERSHIP & ACTIVITIES ]
 
