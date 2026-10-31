@@ -214,7 +214,7 @@ macOS 통합 로그 데이터를 분석하여 사용자 행위, 시스템 동작
 
 ### 03. 최우수 논문상 · 한국정보보호학회장상
 
-<img src="./awards/[상장 이미지 파일명].jpeg" align="right" width="180" alt="한국정보보호학회장상 상장"/>
+<img src="./awards/20261029_201151.jpg" align="right" width="180" alt="한국정보보호학회장상 상장"/>
 
 **학술대회:** 2026 한국정보보호학회 동계학술대회<br>
 **논문명:** Hiworks Messenger의 Socket.IO 기반 통신 프로토콜 역공학을 통한 메신저 데이터 획득<br>
